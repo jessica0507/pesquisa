@@ -16,3 +16,13 @@ body{
     cursor: pointer;
     display: none;
 }
+
+
+/* estilos para o carrosel */
+.carousel-caption h3, .carousel-caption p{
+    text-shadow: 3px 3px 5px #000;
+}
+
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.6);
+}
